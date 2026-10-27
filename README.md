@@ -259,4 +259,4 @@ Potential enhancements include:
 
 ## 📄 License
 
-This project is intended for educational and portfolio purposes. Add a `LICENSE` file if you choose to distribute it under a specific open-source license.
+
